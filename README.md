@@ -1,13 +1,14 @@
 # Med-Help
 
-Med-Help is a Next.js project designed to analyze medical information and provide detailed information about various medications. This project aims to offer comprehensive details without using special characters or symbols. It uses Gemini and Tailwind CSS for styling and layout.
+Med-Help is a Next.js project designed to analyze medical information and provide detailed information about various medications. This project aims to offer comprehensive details of the medicine. It uses Gemini and Tailwind CSS for styling and layout.
 
 ## Features
 
 - Analyze medical information
 - Provide detailed information about medications
 - User-friendly interface
-- Styled with Gemini and Tailwind CSS
+- Used Gemini-Api for searching Information
+- Styled with Tailwind CSS
 
 ## Installation
 
@@ -15,7 +16,7 @@ To get started with Med-Help, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/med-help.git
+   git clone https://github.com/bPavan16/med-help.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -63,6 +64,12 @@ Here are some sample images showing the web and phone views of the Med-Help appl
 ### Web View
 ![Web View](images/image1.png)
 ![Web View](images/image2.png)
+![Web View](images/image3.png)
+
 
 ### Phone Display
-![Phone Display](images/image3.png)
+<div align="center"> 
+   
+![Mobile View](images/image4.png)
+   
+</div>

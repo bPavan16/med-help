@@ -16,7 +16,7 @@ To get started with Med-Help, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bPavan16/med-help.git
+   git clone https://github.com/sastwik/med-help.git
    ```
 2. Navigate to the project directory:
    ```bash
